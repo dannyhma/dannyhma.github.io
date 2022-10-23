@@ -1,0 +1,38 @@
+[
+    {
+        "no": 1,
+        "nama": "Ani",
+        "kelas": "A",
+        "nilai": 80
+    },
+    {
+        "no": 2,
+        "nama": "Budi",
+        "kelas": "B",
+        "nilai": 70
+    },
+    {
+        "no": 3,
+        "nama": "Caca",
+        "kelas": "B",
+        "nilai": 40
+    },
+    {
+        "no": 4,
+        "nama": "Suhe",
+        "kelas": "A",
+        "nilai": 50
+    },
+    {
+        "no": 5,
+        "nama": "Danny",
+        "kelas": "A",
+        "nilai": 15
+    },
+    {
+        "no": 6,
+        "nama": "Himawan",
+        "kelas": "B",
+        "nilai": 15
+    }
+]
